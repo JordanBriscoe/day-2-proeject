@@ -3,5 +3,38 @@
 }
 header {
   background-color: #1d467f;
+  color: #f2f5f5;
   text-align: center;
+  height: 10vh;
+}
+footer {
+  background-color: #1d467f;
+  height: 10vh;
+  border: 0em;
+}
+.side-text {
+  display: inline-block;
+  position: fixed;
+  text-align: right;
+}
+.side-text p {
+margin-left: 160px;
+}
+.text {
+  width: 50vw;
+  display: inline-block;
+  margin-left: 20vw;
+}
+.blueblock {
+  height: 100px;
+  width: 100px;
+  background-color: #4a86e8;
+  margin-left: 188.5px;
+  margin-top: 24px;
+}
+.line {
+  width: 100%;
+  padding: 10px;
+  background-color: #cfe2f3;
+  margin-top: 2vh;
 }
